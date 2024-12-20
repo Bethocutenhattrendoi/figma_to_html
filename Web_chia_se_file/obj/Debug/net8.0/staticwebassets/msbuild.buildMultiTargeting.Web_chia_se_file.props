@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_chia_se_file.props" />
+</Project>

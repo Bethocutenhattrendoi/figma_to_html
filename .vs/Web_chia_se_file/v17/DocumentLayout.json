@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Web_chia_se_file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57F69D7-B757-43D1-B811-F078C46B452E}|Web_chia_se_file\\Web_chia_se_file.csproj|e:\\web_chia_se_file\\web_chia_se_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57F69D7-B757-43D1-B811-F078C46B452E}|Web_chia_se_file\\Web_chia_se_file.csproj|solutionrelative:web_chia_se_file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Web_chia_se_file\\Web_chia_se_file\\Program.cs",
+              "RelativeDocumentMoniker": "Web_chia_se_file\\Program.cs",
+              "ToolTip": "E:\\Web_chia_se_file\\Web_chia_se_file\\Program.cs",
+              "RelativeToolTip": "Web_chia_se_file\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:31:30.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
